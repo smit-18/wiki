@@ -12,8 +12,8 @@ These are the basic operations which the wiki web application allows you to do:
 Here are some of the photos of the interface,
 
 ![Homepage img](imgs/Homepage.png)
-&nbsp   
+<p>&nbsp;</p>
 ![Createpage img](imgs/Createpage.png)
-&nbsp  
+<p>&nbsp;</p>
 ![Openedpage img](imgs/Openedpage.png)
 
