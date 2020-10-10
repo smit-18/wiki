@@ -1,8 +1,8 @@
 # Wiki
 
-Wiki is a smaller version of the wikipedia, it is made using Django framework. 
+Wiki is a smaller version of the wikipedia, it is made using Django framework. It uses local storage for storing all the created pages.
 
-These are the basic operations which the wiki web application allows you to do:
+These are the main operations which the wiki web application will allow you to do:
 
 * Create new pages filled with information in the form of a .md (markdown) file.
 * Edit those created files.
