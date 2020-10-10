@@ -16,5 +16,6 @@ Here are some of the photos of the interface,
 
 ![Createpage img](imgs/Createpage.png)
 <p>&nbsp;</p>
+
 ![Openedpage img](imgs/Openedpage.png)
 
