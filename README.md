@@ -13,6 +13,7 @@ Here are some of the photos of the interface,
 
 ![Homepage img](imgs/Homepage.png)
 <p>&nbsp;</p>
+
 ![Createpage img](imgs/Createpage.png)
 <p>&nbsp;</p>
 ![Openedpage img](imgs/Openedpage.png)
